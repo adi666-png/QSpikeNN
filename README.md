@@ -1,4 +1,4 @@
-# NEURIPS
+# Quantum Spiking Neural Networks (QSNN)
 
 The proposed hybrid classical-quantum
 DSQ-Net model consists of a classical pre-trained SNN, one
