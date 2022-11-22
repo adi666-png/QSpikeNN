@@ -1,4 +1,4 @@
-# Quantum Spiking Neural Networks (QSNN)
+# Quantum Spiking Neural Networks (QSpikeNN)
 
 The proposed hybrid classical-quantum
 DSQ-Net model consists of a classical pre-trained SNN, one
