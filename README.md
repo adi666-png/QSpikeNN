@@ -73,34 +73,54 @@ quantum network (6 qubits ansatz) with MNIST
 dataset. It works in the same way as the
 [5-ary]_pretrain_6x2_squeeze.ipynb
 notebook, but for the MNIST dataset.
-6. data_create_FASHIONMNIST.ipynb
+6. [5-ary]_pretrain_6x2_squeeze_INET.ipynb
+It comprises the codes to train the hybrid classical-
+quantum network (6 qubits ansatz) with MNIST
+dataset. It works in the same way as the
+[5-ary]_pretrain_6x2_squeeze.ipynb
+notebook, but for the ImageNet dataset.
+7. [5-ary]_pretrain_6x2_squeeze_CIFAR.ipynb
+It comprises the codes to train the hybrid classical-
+quantum network (6 qubits ansatz) with MNIST
+dataset. It works in the same way as the
+[5-ary]_pretrain_6x2_squeeze.ipynb
+notebook, but for the CIFAR dataset.
+7. data_create_FASHIONMNIST.ipynb
 It comprises codes to create noisy version of Fashion-
 MNIST dataset. It converts the 7200 test images to
 their noise affected versions. Various types of noises
 are added in various intensities and are arranged in an
 order compatible with the proposed DSQ-Net model.
-7. data_create_KMNIST.ipynb
+8. data_create_KMNIST.ipynb
 It contains codes to create noisy version of KMNIST
 dataset. Its function is similar to the jupyter notebook
 named data_create_FASHIONMNIST.ipynb.
-8. data_create_MNIST.ipynb
+9. data_create_MNIST.ipynb
 It comprises codes to create noisy version of MNIST
 dataset.Its function is similar to the jupyter notebook
 named data_create_FASHIONMNIST.ipynb.
-9. Testbench.ipynb
+10. data_create_INET.ipynb
+It comprises codes to create noisy version of ImageNet
+dataset.Its function is similar to the jupyter notebook
+named data_create_FASHIONMNIST.ipynb.
+11. data_create_CIFAR.ipynb
+It comprises codes to create noisy version of CIFAR
+dataset.Its function is similar to the jupyter notebook
+named data_create_FASHIONMNIST.ipynb.
+12. Testbench.ipynb
 It comprises the code for testing the classical networks
 with the noisy imaging datasets. It takes a .h5 file as
 the input and displays the accuracy of its performance
 tested on various noises with different intensities.
-10. Testbench_Fashion_5_class.ipynb
+13. Testbench_Fashion_5_class.ipynb
 It contains the codes for testing networks against noisy
 version of 5-class Fashion MNIST dataset. It is an or-
 ganised form of dealing with the test data and useful
 for plotting and other datapoints.
-11. Testbench_KMNIST_5_class.ipynb
+14. Testbench_KMNIST_5_class.ipynb
 It includes the codes for testing networks on noisy ver-
 sion of 5-class KMNIST dataset.
-12. Testbench_MNIST_5_class.ipynb
+15. Testbench_MNIST_5_class.ipynb
 This section of the codes is used for testing networks
 on noisy version of 5-class MNIST dataset.
 
