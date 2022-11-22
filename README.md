@@ -1,5 +1,7 @@
 # Quantum Spiking Neural Networks (QSpikeNN)
 
+<img align="center" alt="diag" width="400" height="300" src="https://github.com/adi666-png/QSpikeNN/blob/main/assets/diag.png">
+
 The proposed hybrid classical-quantum
 DSQ-Net model consists of a classical pre-trained SNN, one
 dressed quantum layer for classification (whose qubits are
